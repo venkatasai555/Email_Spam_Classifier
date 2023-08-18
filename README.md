@@ -1,4 +1,4 @@
-# Email_Spam_Classifier
+# Email_Spam_Classifier_Project
 
 Hello, this is the Email Spam Classifier Project using Python. I got this project under the internshp of CodeClause. I'm a AI Intern at CodeClause. Spam mail detection is a common task in natural language processing (NLP) where the goal is to automatically determine whether a given piece of text (e.g., email, message) is SPAM or NOT.
 
